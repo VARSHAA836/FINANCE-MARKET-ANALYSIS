@@ -27,5 +27,8 @@ This project analyzes financial market data using Python. It provides insights i
 - Financial trend analysis
 - Interactive dashboard using Streamlit
 
-## 👨‍💻 Author
-Your Name
+## 📊 Dashboard Output
+
+You can view the dashboard report here:
+
+[Download Dashboard PDF](fsd_assign_2_merged.pdf)
