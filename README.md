@@ -38,3 +38,15 @@ You can view the dashboard report here:
 You can view and run the notebook here:
 
 [Open in Google Colab](https://colab.research.google.com/drive/1JVT626YN7OV-0GJrwRF1G7qIE2vdWR6w?usp=drive_link)
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+git clone https://github.com/VARSHAA836/FINANCE-MARKET-ANALYSIS.git
+2. Install dependencies:
+pip install streamlit pandas plotly
+3. Run the application:
+streamlit run streamlite_financial.py
+
+##Conclusion
+This project demonstrates how financial data can be analyzed effectively using modern data visualization tools.
